@@ -2,11 +2,11 @@
 Mobile Application Developement ~~using Android~~ Lab Work :wink:
 
 ### Select Week
-[Week 1 (Helloworld, Counter)](https://github.com/nizam19/MAD#week-1)
+[Week 1 (Helloworld, Counter)](#week-1)
 
-[Week 2 (Register, Color)](https://github.com/nizam19/MAD#week-2)
+[Week 2 (Register, Color)](#week-2)
 
-[Week 3 (Currency, Lifecycle)](https://github.com/nizam19/MAD#week-3)
+[Week 3 (Currency, Lifecycle)](#week-3)
 
 ***
 
