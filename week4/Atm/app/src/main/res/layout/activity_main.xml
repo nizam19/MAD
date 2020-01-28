@@ -1,0 +1,99 @@
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/pin"
+        android:ems="10"
+        android:inputType="number"
+        />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Submit"
+        android:textColor="#fff"
+        android:background="@color/colorPrimaryDark"
+        />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bal"
+        android:layout_below="@id/submit"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        android:inputType="number"
+        />
+
+    <Button
+        android:id="@+id/withdraw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Withdraw"
+        android:textColor="#fff"
+        android:background="@color/colorPrimaryDark"
+        />
+
+    <Button
+        android:id="@+id/deposit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/withdraw"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Deposit"
+        android:textColor="#fff"
+        android:background="@color/colorPrimaryDark"
+        />
+
+    <Button
+        android:id="@+id/balance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/deposit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Balance"
+        android:textColor="#fff"
+        android:background="@color/colorPrimaryDark"
+        />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/balance"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Exit"
+        android:textColor="#fff"
+        android:background="@color/colorPrimaryDark"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/exit"
+        android:text="Balance = "
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:id="@+id/show"
+        />
+
+</RelativeLayout>
