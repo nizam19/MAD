@@ -40,3 +40,13 @@ Mobile Application Developement ~~using Android~~ Lab Work :wink:
 * [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week3/Lifecycle/app/src/main/java/com/example/lifecycle/MainActivity.java)
  
 ***
+
+#### Week 4
+##### 1. Atm
+* [activity_main.xml](https://github.com/nizam19/MAD/blob/master/week4/Atm/app/src/main/res/layout/activity_main.xml) 
+* [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week4/Atm/app/src/main/java/com/example/atm/MainActivity.java)
+##### 2. Spin
+* [activity_main.xml](https://github.com/nizam19/MAD/blob/master/week4/Spin/app/src/main/res/layout/activity_main.xml) 
+* [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week4/Spin/app/src/main/java/com/example/spin/MainActivity.java)
+ 
+***
