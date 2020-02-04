@@ -10,6 +10,8 @@ Mobile Application Developement ~~using Android~~ Lab Work :wink:
 
 [Week 4 (Atm, Spin)](#week-4)
 
+[Week 5 (Calculator)](#week-5)
+
 ***
 
 #### Week 1
