@@ -58,6 +58,6 @@ Mobile Application Developement ~~using Android~~ Lab Work :wink:
 #### Week 5
 ##### 1. Calculator
 * [activity_main.xml](https://github.com/nizam19/MAD/blob/master/week5/Calculator/app/src/main/res/layout/activity_main.xml) 
-* [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week5/Calculator/app/src/main/java/com/example/atm/MainActivity.java)
+* [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week5/Calculator/app/src/main/java/com/example/calculator/MainActivity.java)
 
 ***
