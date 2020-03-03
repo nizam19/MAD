@@ -18,12 +18,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     int[] id = {R.id.b0,R.id.b1,R.id.b2,R.id.b3,R.id.b4,R.id.b5,R.id.b6,R.id.b7,R.id.b8,R.id.b9,R.id.add,R.id.sub,R.id.mul,R.id.div,R.id.eq,R.id.clear};
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState)
+    {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
        b = new Button[16];
-       for(int i=0;i<16;i++){
+       for(int i=0;i<16;i++)
+       {
             b[i] = findViewById(id[i]);
             b[i].setOnClickListener(this);
        }

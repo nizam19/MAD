@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:lines="1"
+        android:hint="Message"
+        android:id="@+id/et"
+        />
+    <ImageButton
+        android:layout_margin="10dp"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:src="@drawable/ic_action_name"
+        android:id="@+id/ib"
+
+        android:background="#ffffff"
+        />
+</LinearLayout>
