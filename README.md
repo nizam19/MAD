@@ -1,6 +1,10 @@
 # MAD
 Mobile Application Developement ~~using Android~~ Lab Work :wink:
 
+Up till week 5     Android Studio 3.5
+
+Week 6 and later   Android Studio 3.6
+
 ### Select Week
 [Week 1 (Helloworld, Counter)](#week-1)
 
@@ -11,6 +15,10 @@ Mobile Application Developement ~~using Android~~ Lab Work :wink:
 [Week 4 (Atm, Spin)](#week-4)
 
 [Week 5 (Calculator)](#week-5)
+
+[Week 6 (Implicit, Explicit)](#week-6)
+
+[Week 7 (Share, Video)](#week-7)
 
 ***
 
@@ -60,4 +68,26 @@ Mobile Application Developement ~~using Android~~ Lab Work :wink:
 * [activity_main.xml](https://github.com/nizam19/MAD/blob/master/week5/Calculator/app/src/main/res/layout/activity_main.xml) 
 * [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week5/Calculator/app/src/main/java/com/example/calculator/MainActivity.java)
 
+***
+
+#### Week 6
+##### 1. Implicit
+* [activity_main.xml](https://github.com/nizam19/MAD/blob/master/week6/Implicit/app/src/main/res/layout/activity_main.xml) 
+* [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week6/Implicit/app/src/main/java/com/example/implicit/MainActivity.java)
+##### 2. Explicit
+* [activity_main.xml](https://github.com/nizam19/MAD/blob/master/week6/Explicit/app/src/main/res/layout/activity_main.xml) 
+* [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week6/Explicit/app/src/main/java/com/example/explicit/MainActivity.java)
+* [activity_second.xml](https://github.com/nizam19/MAD/blob/master/week6/Explicit/app/src/main/res/layout/activity_second.xml) 
+* [SecondActivity.java](https://github.com/nizam19/MAD/blob/master/week6/Explicit/app/src/main/java/com/example/explicit/SecondActivity.java)
+ 
+***
+
+#### Week 7
+##### 1. Share
+* [activity_main.xml](https://github.com/nizam19/MAD/blob/master/week7/Share/app/src/main/res/layout/activity_main.xml) 
+* [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week7/Share/app/src/main/java/com/example/share/MainActivity.java)
+##### 2. video
+* [activity_main.xml](https://github.com/nizam19/MAD/blob/master/week7/Video/app/src/main/res/layout/activity_main.xml) 
+* [MainActivity.java](https://github.com/nizam19/MAD/blob/master/week7/Video/app/src/main/java/com/example/video/MainActivity.java)
+ 
 ***
